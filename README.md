@@ -1,2 +1,2 @@
-# React-Redux-Blog
-Simple react/redux blog app
+# Mini Youtube app
+Simple app to render results from simple call to youtube api
